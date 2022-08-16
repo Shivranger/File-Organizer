@@ -15,7 +15,7 @@ else:
 
 for item in os.listdir():
     if searchTerm in item: 
-        print("Moving " + item + "to" + folderName + "...")
+        print("Moving " + item + "to " + folderName + "...")
         shutil.move(item, "./" + folderName)
 
 print("Done!")
