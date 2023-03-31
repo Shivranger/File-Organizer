@@ -1,6 +1,9 @@
 # File-Organizer
 
-This script will move files or directories into a specified directory
+This script will move files or directories into a specified directory.
+
+##Supported OS's
+- Windows
 
 ```bash
 python fileOrganizer.py <keyword> <foldername>
