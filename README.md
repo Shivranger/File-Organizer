@@ -2,7 +2,7 @@
 
 This script will move files or directories into a specified directory.
 
-## Supported OS's
+## Supported OS'
 - Windows
 
 ## How to execute
